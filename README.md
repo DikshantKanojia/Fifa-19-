@@ -45,4 +45,4 @@ Q4: How is a player's skils set influence his potential? Can we predict a player
 
 ## Link to the blog post
 The following is the link to the blog post of the analysis:
-https://medium.com/@ddk10/predicting-a-players-potential-in-fifa-19-analyzing-the-players-dataset-2da53a579efd
+[Predicting a players potential on FIFA 19](https://medium.com/@ddk10/predicting-a-players-potential-in-fifa-19-analyzing-the-players-dataset-2da53a579efd)
