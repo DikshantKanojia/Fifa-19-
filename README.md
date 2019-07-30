@@ -4,6 +4,7 @@
 2. Installations
 3. File Descriptions
 4. Results
+5. Link to the blog post
 
 ## Project Motivation
 FIFA 19 is one of the most popular football games. In this project we analyzed Fifa 19 players dataset and try to predict a player potential. The analysis uses CRISP-DM method for our analysis process. The process is as follows:
@@ -42,4 +43,6 @@ Q4: How is a player's skils set influence his potential? Can we predict a player
 
 3. Ball control, reaction, and age are the main determinants of a player’s potential. People playing this game should focus on these factors to purchase players for their clubs.
 
-
+## Link to the blog post
+The following is the link to the blog post of the analysis:
+https://medium.com/@ddk10/predicting-a-players-potential-in-fifa-19-analyzing-the-players-dataset-2da53a579efd
